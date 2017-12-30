@@ -1,0 +1,5 @@
+# Prexco - Capsule
+
+[codecapsule]
+remote = git@github.com:prexco/codecapsule.git
+path = ~/Projects/Prexco/codecapsule
